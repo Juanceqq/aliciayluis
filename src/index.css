@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Gistesy";
+  src: url("./fonts/Gistesy.ttf");
+}
+
+@font-face {
+  font-family: "Black Mango";
+  src: url("./fonts/BlackMango-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Forum";
+  src: url("./fonts/Forum-Regular.ttf");
+}
