@@ -3,10 +3,10 @@
     <template #background>
       <div ref="background" class="bg-primary w-full h-full relative">
         <div class="h-full">
-          <img src="@/assets/background-top.png" alt="hero background" class="w-2/5 lg:w-1/3 absolute top-0 left-0">
+          <img src="@/assets/background-top.webp" alt="hero background" class="w-2/5 lg:w-1/3 absolute top-0 left-0">
         </div>
         <div class="h-full w-full ">
-          <img src="@/assets/background-bot.png" alt="hero background"
+          <img src="@/assets/background-bot.webp" alt="hero background"
             class="w-2/3  lg:w-1/3 absolute bottom-0 right-0">
         </div>
       </div>

@@ -3,11 +3,11 @@
     <template #background>
       <div class="bg-primary w-full h-full rotate-">
         <div class="h-full w-full relative">
-          <img src="@/assets/Marco.png" alt="hero background"
+          <img src="@/assets/Marco.webp" alt="hero background"
             class=" w-2/3 lg:w-1/3 object-cover absolute top-0 right-0">
         </div>
         <div class="h-full w-full">
-          <img src="@/assets/Marco.png" alt="hero background"
+          <img src="@/assets/Marco.webp" alt="hero background"
             class="w-2/3  lg:w-1/3 absolute bottom-0 left-0 rotate-180">
         </div>
       </div>
