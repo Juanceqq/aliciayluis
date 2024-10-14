@@ -11,7 +11,8 @@
 
     <template #container>
       <div class="grid xl:grid-cols-10 items-center lg:p-20">
-        <div class="xl:col-start-2 col-span-1 lg:col-span-3 lg:items-start flex flex-col gap-2 xl:gap-5 bg-secondary">
+        <div
+          class="xl:col-start-2 col-span-1 lg:col-span-3 lg:items-start flex flex-col gap-2 xl:gap-5 border-2 m-4 border-secondary bg-secondary-400">
           <div tag="header" class="flex flex-col w-full gap-4 p-10">
             <span class="font-forum text-3xl lg:text-4xl text-center lg:text-left font-bold">
               Confirmar asistencia
